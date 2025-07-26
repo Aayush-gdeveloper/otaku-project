@@ -1,0 +1,7 @@
+Model,Release Year,Launch Price (INR),Current Price (INR),Customer Rating (/5),Even/Odd Model,Popular Features,Price Drop (INR),Price Drop (%),Major Upgrade,"Resale Value (1Y, %)",Processor,Model Summary,Display Type,Battery Life (hrs),AI Features,USB-C,Geekbench Score (Single/Multi),Best Buy Time (Months After Launch),Upgrade Reason
+iPhone 11,2019,64900,41900,4.5,Odd,"Dual-camera, A13 Bionic, LCD Display",23000,35.44,Yes,70,A13,"Great value, still popular in 2025",LCD,17,No,No,1330/3400,12,"Older tech, no OLED"
+iPhone 12,2020,69900,49900,4.4,Even,"OLED Display, A14 Bionic, 5G",20000,28.61,Yes,72,A14,"Good OLED display, budget 5G option",OLED,18,No,No,1590/4100,10,"Good display, average battery"
+iPhone 13,2021,79900,59900,4.6,Odd,"Improved Cameras, Cinematic Mode, A15",20000,25.03,Yes,75,A15,Cinematic mode made it a hit,OLED,19,No,No,1720/4600,9,Cinematic mode & better chip
+iPhone 14,2022,79900,67900,4.2,Even,"Crash Detection, A15/A16, Dynamic Island (Pro)",12000,15.02,No,73,A15/A16,Dynamic Island only on Pro models,OLED,20,Partial (Pro),No,1850/5100,8,"Dynamic Island (Pro only), mid bump"
+iPhone 15,2023,79900,72900,4.3,Odd,"USB-C, A16/A17, Titanium (Pro)",7000,8.76,Yes,78,A16/A17,"USB-C and Titanium in Pro, refined design",OLED,21,Yes (Pro),Yes,2000/5500,6,"USB-C + Titanium (Pro), AI intro"
+iPhone 16,2024,82900,79900,4.4,Even,"Improved Battery, A18 chip, Under-Display Face ID",3000,3.62,No,80,A18,"Latest chip, rumored Face ID under screen",LTPO OLED,22,Yes,Yes,2250/6200,5,"AI + better battery, under-display Face ID"
